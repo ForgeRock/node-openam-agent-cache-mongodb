@@ -1,7 +1,7 @@
 {
   "name": "openam-agent-cache-mongodb",
   "description": "Cache using MongoDB for the OpenAM Policy Agent for NodeJS",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "author": "Zoltan Tarcsay <tarcsay.zoltan@gmail.com>",
   "repository": {
