@@ -114,6 +114,6 @@ mongoCache.close().then(function () {
 <a name="MongoCache+quit"></a>
 
 ### mongoCache.quit() ⇒ <code>Promise</code>
-If this were a database, it would close the connection, but since it's not, it doesn't
+Closes the database connection
 
 **Kind**: instance method of <code>[MongoCache](#MongoCache)</code>  
