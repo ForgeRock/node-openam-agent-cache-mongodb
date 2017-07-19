@@ -1,24 +1,24 @@
 {
-  "name": "openam-agent-cache-mongodb",
+  "name": "@forgerock/openam-agent-cache-mongodb",
   "description": "Cache using MongoDB for the OpenAM Policy Agent for NodeJS",
   "version": "1.0.2",
   "main": "index.js",
-  "author": "Zoltan Tarcsay <tarcsay.zoltan@gmail.com>",
+  "author": "Zoltan Tarcsay <zoltan.tarcsay@forgerock.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/zoltantarcsay/node-openam-agent-cache-mongodb.git"
+    "url": "https://github.com/ForgeRock/node-openam-agent-cache-mongodb.git"
   },
   "scripts": {
     "test": "mocha test/*"
   },
   "license": "MIT",
   "dependencies": {
-    "bluebird": "^3.4.6",
-    "mongodb": "^2.2.10",
-    "openam-agent-cache": "^1.0.0",
+    "@forgerock/openam-agent-cache": "^2.0.0",
+    "bluebird": "^3.5.0",
+    "mongodb": "^2.2.30",
     "util": "^0.10.3"
   },
   "devDependencies": {
-    "mocha": "^3.1.2"
+    "mocha": "^3.4.2"
   }
 }
