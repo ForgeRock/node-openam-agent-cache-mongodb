@@ -1,7 +1,7 @@
 {
   "name": "@forgerock/openam-agent-cache-mongodb",
   "description": "Cache using MongoDB for the OpenAM Policy Agent for NodeJS",
-  "version": "1.0.2",
+  "version": "2.0.0",
   "main": "index.js",
   "author": "Zoltan Tarcsay <zoltan.tarcsay@forgerock.com>",
   "repository": {
